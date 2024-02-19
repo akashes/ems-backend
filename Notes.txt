@@ -1,0 +1,6 @@
+create a server folder
+create package.json file using npm init -y
+data is stored in mongodb   , no db.json required
+index.js file creation
+creating an application using express  - npm i express (automatically generates nodemodules)
+CORS - cors is a node.js package for providing c connect/express middleware that can be used to enable cors with various options. // to connect front end and backend ports
